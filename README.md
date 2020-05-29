@@ -12,3 +12,5 @@ The server-side and the client-side use STOMP  to communicate with each other.
 Client: https://github.com/Shachar-Ron/FootballSystem-Client
 
 Server:https://github.com/Shachar-Ron/FootballSystem-Server 
+
+https://github.com/Shachar-Ron/FootballSystem-Client/issues/1#issue-627329266
