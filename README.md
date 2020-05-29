@@ -14,3 +14,6 @@ Client: https://github.com/Shachar-Ron/FootballSystem-Client
 Server:https://github.com/Shachar-Ron/FootballSystem-Server 
 
 https://github.com/Shachar-Ron/FootballSystem-Client/issues/1#issue-627329266
+
+![CreateTeam_R 2](https://user-images.githubusercontent.com/57832721/83274192-1d9b1f00-a1d6-11ea-8efc-d743992abd0b.PNG)
+
